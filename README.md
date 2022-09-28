@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mohammed Ali</h1>
+
 <h3 align="center">I'm software developer student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammedali996&label=Profile%20views&color=0e75b6&style=flat" alt="mohammedali996" /> </p>
