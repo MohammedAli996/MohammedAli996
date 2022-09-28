@@ -6,8 +6,9 @@
 
 <a href="https://twitter.com/mohammedalii96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mohammedalii96" height="30" width="40" /></a>
 <a href="https://instagram.com/mohammedali96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohammedali96" height="30" width="40" /></a>
-<a href="https://www.reddit.com/user/MohammedAli996" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/reddit.svg" alt="mohammedali96" height="30" width="40" /></a>
 <a href="https://discord.com/mohammed#9245" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/discord.svg" alt="mohammedali96" height="30" width="40" /></a>
+<a href="https://www.reddit.com/user/MohammedAli996" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/reddit.svg" alt="mohammedali96" height="30" width="40" /></a>
+<a href="https://t.snapchat.com/mohammedali996" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/snapchat.svg" alt="mohammedali96" height="30" width="40" /></a>
 
 
 ## 💻 Tech Stack
