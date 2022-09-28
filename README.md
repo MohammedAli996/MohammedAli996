@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mohammed Ali</h1>
 <h3 align="center">I'm Softwaredeveloper student</h3>
 <img align="right" alt="Coding" width="400"  src= "https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
+
      
+
 ## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mohammedali96) 
 
