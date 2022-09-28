@@ -21,6 +21,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedAli996&show_icons=true&theme=radical)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MohammedAli996&show_icons=true&theme=radical" alt="MohammedAli996"></p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohammedAli996&show_icons=true&theme=radical)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MohammedAli996&show_icons=true&theme=radical" alt="MohammedAli996"></p>
