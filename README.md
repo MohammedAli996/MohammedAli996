@@ -4,7 +4,7 @@
      
 ## 💻 Tech Stack
 
-<a href="https://twitter.com/mohammedalii96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mohammedalii96" height="30" width="40" /></a><a href="https://instagram.com/mohammedali96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohammedali96" height="30" width="40" /></a>
+<a href="https://twitter.com/mohammedalii96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mohammedalii96" height="30" width="40" /></a><a href="https://instagram.com/mohammedali96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohammedali96" height="30" width="40" /></a></p>
 
 ## 💻 Tech Stack
  
