@@ -6,7 +6,7 @@
 
 <a href="https://twitter.com/mohammedalii96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mohammedalii96" height="30" width="40" /></a>
 <a href="https://instagram.com/mohammedali96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohammedali96" height="30" width="40" /></a>
-<a href="https://twitter.com/mohammedalii96" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.js" alt="mohammedali996" height="30" width="40" /></a>
+<a href="https://www.reddit.com/mohammedali996" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg" alt="mohammedali996" height="30" width="40" /></a>
 
 
 ## 💻 Tech Stack
