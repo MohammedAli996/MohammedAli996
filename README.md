@@ -12,7 +12,7 @@
 
 ## 📟 GitHub Stats
 <p align="center">
-     	<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=MohammedAli996&show_icons=true&theme=radical" />
+     	<img width="4%" src="https://github-readme-stats.vercel.app/api/top-langs?username=MohammedAli996&show_icons=true&theme=radical" />
 	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=MohammedAli996&show_icons=true&theme=radical"/>
      	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=MohammedAli996&show_icons=true&theme=radical" />
 </p>
