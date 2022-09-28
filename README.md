@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400"  src= "https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
 
 ## 🌐 Socials
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">##🌐Socials</h3>
 <p align="left">
 <a href="https://twitter.com/mohammedalii96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mohammedalii96" height="30" width="40" /></a>
 <a href="https://instagram.com/mohammedali96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohammedali96" height="30" width="40" /></a>
