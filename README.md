@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mohammed Ali</h1>
 <h3 align="center">I'm software developer student</h3>
-<img align="right" alt="Coding" width="400"  src= "https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammedali996&label=Profile%20views&color=0e75b6&style=flat" alt="mohammedali996" /> </p>
 
-<p align="left"> <a href="https://twitter.com/momohammedalii96" target="blank"><img src="https://img.shields.io/twitter/follow/momohammedalii96?logo=twitter&style=for-the-badge" alt="momohammedalii96" /></a> </p>
+<p align="left"> <a href="https://twitter.com/mohammedalii96" target="blank"><img src="https://img.shields.io/twitter/follow/mohammedalii96?logo=twitter&style=for-the-badge" alt="mohammedalii96" /></a> </p>
 
 - 🔭 I’m currently working on **My Portfolio**
 
@@ -25,3 +24,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohammedali996&show_icons=true&locale=en" alt="mohammedali996" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammedali996&" alt="mohammedali996" /></p>
+
