@@ -98,3 +98,4 @@
 	<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohammedali996" alt="mohammedali996" /></a>
 	<a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a>
 </p>
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/MohammedAli996?username=MohammedAli996)](https://github.com/anuraghazra/github-readme-stats)
