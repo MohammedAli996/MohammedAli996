@@ -78,7 +78,7 @@
 <p>
      	<img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs?username=MohammedAli996&layout=compact&show_icons=true&theme=radical">
 	<img width="50%" src="https://github-readme-stats.vercel.app/api?username=MohammedAli996&show_icons=true&theme=radical">
-     	<img width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=MohammedAli996&show_icons=true&theme=radical">
+     	<img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=MohammedAli996&show_icons=true&theme=radical">
 	
 </p>
 
