@@ -7,7 +7,6 @@
 <!--LINKEDIN-->
 <a href="https://linkedin.com/in/mohammed-ali-110bb7177" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammed-ali-110bb7177" height="40" width="50" />
 </a>
-</a>
 <!--DISCORD-->
 <a href="https://discord.gg/#9245" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#9245" height="40" width="50" />
