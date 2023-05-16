@@ -95,9 +95,9 @@
      	<img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs?username=MohammedAli996&layout=compact&show_icons=true&theme=radical">
 	<img width="50%" src="https://github-readme-stats.vercel.app/api?username=MohammedAli996&show_icons=true&theme=radical">
      	<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=MohammedAli996&show_icons=true&theme=radical">
-	
+	<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohammedali996" alt="mohammedali996" /></a>
+	<a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a>
 </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammedali996&label=Profile%20views&color=0e75b6&style=flat" alt="mohammedali996" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohammedali996" alt="mohammedali996" /></a> </p>
 
