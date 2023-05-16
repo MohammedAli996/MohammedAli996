@@ -77,8 +77,6 @@
 ## 📟 GitHub Stats
 <p>
      	<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=MohammedAli996&layout=compact&show_icons=true&theme=radical">
-</P>
-<P>
 	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=MohammedAli996&show_icons=true&theme=radical">
 </P>
 <P>
