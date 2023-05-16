@@ -76,7 +76,7 @@
 
 ## 📟 GitHub Stats
 <p>
-     	<img width="39%" src="https://github-readme-stats.vercel.app/api/top-langs?username=MohammedAli996&layout=compact&show_icons=true&theme=radical">
+     	<img width="38,5%" src="https://github-readme-stats.vercel.app/api/top-langs?username=MohammedAli996&layout=compact&show_icons=true&theme=radical">
 	<img width="50%" src="https://github-readme-stats.vercel.app/api?username=MohammedAli996&show_icons=true&theme=radical">
      	<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=MohammedAli996&show_icons=true&theme=radical">
 	
