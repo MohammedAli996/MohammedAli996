@@ -3,11 +3,27 @@
 <img align="right" alt="Coding" width="400"  src= "https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 ## 🌐 Socials
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mohammed-ali-110bb7177/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohammed-ali-110bb7177" height="30" width="40" /></a>
-<a href="https://twitter.com/mohammedalii96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mohammedalii96" height="30" width="40" /></a>
-<a href="https://instagram.com/mohammedali96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohammedali96" height="30" width="40" /></a>
-<a href="https://t.snapchat.com/3YqPLx37" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/snapchat.svg" alt="mohammedali96" height="30" width="40" /></a>
-<a href="https://www.reddit.com/user/MohammedAli996" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/reddit.svg" alt="mohammedali96" height="30" width="40" /></a>
+
+<!--LINKEDIN-->
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/mohammed-ali-110bb7177/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohammed-ali-110bb7177" height="30" width="40" />
+</a>
+<!--DISCORD-->
+<a href="https://discord.gg/#9245" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#9245" height="40" width="50" />
+</a>
+<!--INSTAGRAM-->
+<a href="https://instagram.com/mohammedali96" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohammedali96" height="40" width="50" />
+</a>
+<!--TWITTER-->
+<a href="https://twitter.com/mohammedalii96" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mohammedalii96" height="40" width="50" />
+</a>
+<!--SNAPCHAT-->
+<a href="https://t.snapchat.com/3YqPLx37" target="blank">
+    <img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/snapchat.svg" alt="mohammedali96" height="40" width="50" />
+</a>
 
 
 
